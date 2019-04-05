@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-io",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "StyleLint SCSS config.",
   "main": "src/index.js",
   "homepage": "https://github.com/fjc0k/stylelint-config-io",
